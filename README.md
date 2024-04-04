@@ -31,14 +31,14 @@
 
 ### Chart Requirements:
 
-1. ### Total calls by day: 
-2. ### Total call by state:
-3. ### Top Reason for calls:
-4. ### Total call by channel:
-5. ### Total call by sentiment:
-6. ### Total call by call center:
+1. #### Total calls by day: 
+2. #### Total call by state:
+3. #### Top Reason for calls:
+4. #### Total call by channel:
+5. #### Total call by sentiment:
+6. #### Total call by call center:
 
-## Summary :
+### Summary :
 
 Here we can see all over total number of calls call duration and average call duration, by day, state, channel, etc. Total call by day **Friday** shows the highest number of calls. The total number of states **California** and **Texas** shows more number of Total calls. and **Top Reason **  **Billing Qestioning**. 
 
