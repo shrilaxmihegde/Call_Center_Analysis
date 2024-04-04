@@ -1,12 +1,23 @@
-# Call_Center_Analysis
+## Call Center Analysis :
 
-## OVERVIEW OF THE PROJECT:
+### OVERVIEW OF THE PROJECT:
 
  In this call center analysis, we can see, how many calls are coming in a Week and Day, average phone calls what time more calls are coming and response time, and call duration and what purpose they are calling, means particular reasons and customer response for that particular calls.
+ 
 
-### PROBLEM STATEMENTS :
 
-### KPI'S REQUIREMENT :
+ ![CallCenter_ERD)](/Images/Call_Center_Home.png)
+
+
+
+
+ ![CallCenter_ERD)](/Images/Call_Center_Grid.png)
+
+
+
+#### PROBLEM STATEMENTS :
+
+#### KPI'S REQUIREMENT :
 
 1. ####  Total Number of Calls: We need to track and display the total number of calls received by our call center over a specified period.
 
@@ -18,8 +29,6 @@
 
 5. #### Response Time Percentage: response time is a critical factor in customer satisfaction. This KPI should display the percentage of calls answered within a predefined time frame, helping us to gauge our ability to provide prompt services.
 
-
-
 ### Chart Requirements:
 
 1. ### Total calls by day: 
@@ -28,11 +37,6 @@
 4. ### Total call by channel:
 5. ### Total call by sentiment:
 6. ### Total call by call center:
-
-![CallCenter_ERD)](/Images/Call_Center_Home.png)
-
-
-![CallCenter_ERD)](/Images/Call_Center_Grid.png)
 
 ## Summary :
 
